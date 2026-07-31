@@ -1,6 +1,12 @@
 package com.gimicard.oresrenewed;
 
 import com.gimicard.oresrenewed.block.ModBlocks;
+import com.gimicard.oresrenewed.creativemodetab.ModCreativeModeTabs;
+import com.gimicard.oresrenewed.effect.ModEffect;
+import com.gimicard.oresrenewed.item.ModItems;
+import com.gimicard.oresrenewed.item.ModToolMaterials;
+import com.gimicard.oresrenewed.potion.ModPotions;
+import com.gimicard.oresrenewed.tags.ModTags;
 import org.slf4j.Logger;
 
 import com.mojang.logging.LogUtils;
@@ -31,6 +37,15 @@ public class OresRenewed {
     public OresRenewed(IEventBus modEventBus, ModContainer modContainer) {
 
         ModBlocks.register(modEventBus);
+        ModItems.register(modEventBus);
+
+        ModEffect.registerEffects();
+        ModPotions.registerPotions();
+
+        ModPotions.POTIONS.register(modEventBus);
+        ModEffect.MOB_EFFECTS.register(modEventBus);
+
+        ModCreativeModeTabs.register(modEventBus);
 
 
 
