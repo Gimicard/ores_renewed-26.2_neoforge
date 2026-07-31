@@ -21,7 +21,7 @@ import net.neoforged.neoforge.event.server.ServerStartingEvent;
 @Mod(OresRenewed.MOD_ID)
 public class OresRenewed {
     // Define mod id in a common place for everything to reference
-    public static final String MOD_ID = "oresrenewed";
+    public static final String MOD_ID = "ores_renewed";
     // Directly reference a slf4j logger
     public static final Logger LOGGER = LogUtils.getLogger();
 
