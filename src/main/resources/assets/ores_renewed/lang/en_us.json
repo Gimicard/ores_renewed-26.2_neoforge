@@ -1,0 +1,82 @@
+{
+  "block.ores_renewed.uran_ore_block": "Uran Ore",
+  "block.ores_renewed.titan_ore_block": "Titan Ore",
+  "block.ores_renewed.ruby_ore_block": "Ruby Ore",
+  "block.ores_renewed.lead_ore_block": "Lead Ore",
+  "block.ores_renewed.killium_ore_block": "Killium Ore",
+  "block.ores_renewed.magnetit_ore_block": "Magnetit Ore",
+  "block.ores_renewed.vulkanit_ore_block": "Vulkanit Ore",
+  "block.ores_renewed.blackcristal_ore_block": "Blackcristal Ore",
+
+  "block.ores_renewed.deepslate_uran_ore_block": "Deepslate Uran Ore",
+  "block.ores_renewed.deepslate_titan_ore_block": "Deepslate Titan Ore",
+  "block.ores_renewed.deepslate_ruby_ore_block": "Deepslate Ruby Ore",
+  "block.ores_renewed.deepslate_lead_ore_block": "Deepslate Lead Ore",
+  "block.ores_renewed.deepslate_killium_ore_block": "Deepslate Killium Ore",
+  "block.ores_renewed.deepslate_magnetite_ore_block": "Deepslate Magnetit Ore",
+  "block.ores_renewed.deepslate_vulkanit_ore_block": "Deepslate Vulkanit Ore",
+  "block.ores_renewed.deepslate_blackcristal_ore_block": "Deepslate Blackcristal Ore",
+
+  "block.ores_renewed.block_of_blackcristal": "Block of Blackcristal",
+  "block.ores_renewed.block_of_uran": "Block of Uran",
+  "block.ores_renewed.block_of_titan": "Block of Titan",
+  "block.ores_renewed.block_of_ruby": "Block of Ruby",
+  "block.ores_renewed.block_of_lead": "Block of Lead",
+  "block.ores_renewed.block_of_killium": "Block of Killium",
+  "block.ores_renewed.block_of_magnetit": "Block of Magnetit",
+  "block.ores_renewed.block_of_vulkanit": "Block of Vulkanit",
+
+  "creativemodetab.oresrenewed.Ores": "Ores renewed",
+
+  "effect.ores_renewed.irradiated": "Irradiated",
+
+  "item.minecraft.potion.effect.irradiant_potion": "Irradiant Potion",
+  "item.minecraft.splash_potion.effect.irradiant_potion": "Irradiant Splashpotion",
+  "item.minecraft.lingering_potion.effect.irradiant_potion": "Irradiant Lingeringpotion",
+  "item.minecraft.tipped_arrow.effect.irradiant_potion": "Arrow of Irradiant",
+
+  "item.ores_renewed.magnet": "Magnet",
+  "item.ores_renewed.uran_fuel_rod": "Uran fuel rod",
+
+  "item.ores_renewed.vulkanit_sword": "Vulkanit Sword",
+  "item.ores_renewed.vulkanit_pickaxe": "Vulkanit Pickaxe",
+  "item.ores_renewed.vulkanit_shovel": "Vulkanit Shovel",
+  "item.ores_renewed.vulkanit_axe": "Vulkanit Axe",
+  "item.ores_renewed.vulkanit_hoe": "Vulkanit Hoe",
+  "item.ores_renewed.vulkanit_spear": "Vulkanit Spear",
+
+  "item.ores_renewed.titan_sword": "Titan Sword",
+  "item.ores_renewed.titan_pickaxe": "Titan Pickaxe",
+  "item.ores_renewed.titan_shovel": "Titan Shovel",
+  "item.ores_renewed.titan_axe": "Titan Axe",
+  "item.ores_renewed.titan_hoe": "Titan Hoe",
+  "item.ores_renewed.titan_spear": "Titan Spear",
+
+  "item.ores_renewed.ruby_sword": "Ruby Sword",
+  "item.ores_renewed.ruby_pickaxe": "Ruby Pickaxe",
+  "item.ores_renewed.ruby_shovel": "Ruby Shovel",
+  "item.ores_renewed.ruby_axe": "Ruby Axe",
+  "item.ores_renewed.ruby_hoe": "Ruby Hoe",
+  "item.ores_renewed.ruby_spear": "Ruby Spear",
+
+  "item.ores_renewed.lead_pickaxe": "Lead Pickaxe",
+  "item.ores_renewed.magnetit_pickaxe": "Magnetit Pickaxe",
+  "item.ores_renewed.killium_sword": "Killium Sword",
+
+
+  "item.ores_renewed.raw_uran": "Raw Uran",
+  "item.ores_renewed.blackcristal": "Blackcristal",
+  "item.ores_renewed.raw_killium": "Raw Killium",
+  "item.ores_renewed.raw_lead": "Raw Lead",
+  "item.ores_renewed.raw_magnetit": "Raw Magnetit",
+  "item.ores_renewed.raw_titan": "Raw Titan",
+  "item.ores_renewed.raw_vulkanit": "Raw Vulkanit",
+
+  "item.ores_renewed.uran_ingot": "Uran Ingot",
+  "item.ores_renewed.killium_ingot": "Killium Ingot",
+  "item.ores_renewed.lead_ingot": "Lead Ingot",
+  "item.ores_renewed.magnetit_ingot": "Magnetit Ingot",
+  "item.ores_renewed.titan_ingot": "Titan Ingot",
+  "item.ores_renewed.vulkanit_ingot": "Vulkanit Ingot",
+  "item.ores_renewed.ruby": "Ruby Ingot"
+}
