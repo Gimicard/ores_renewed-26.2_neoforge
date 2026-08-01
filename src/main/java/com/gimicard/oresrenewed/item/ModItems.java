@@ -68,12 +68,12 @@ public class ModItems {
     public static final DeferredItem<Item> MAGNETIT_PICKAXE = registerItem("magnetit_pickaxe", props -> new Item(props.pickaxe(ModToolMaterials.MAGNETIT, 1, -2.8f)));
     public static final DeferredItem<Item> KILLIUM_SWORD = registerItem("killium_sword", props -> new Item(props.sword(ModToolMaterials.KILLIUM, 10.0F, -2.4F)));
 
-    // Helper-Methode zum Registrieren
+
     private static <T extends Item> DeferredItem<T> registerItem(String name, Function<Item.Properties, T> function) {
         return ITEMS.registerItem(name, function);
     }
 
-    // Registrierungsmethode für das Event-System in der Hauptklasse
+
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);
     }
