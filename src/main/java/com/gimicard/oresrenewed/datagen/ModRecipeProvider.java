@@ -79,10 +79,10 @@ public class ModRecipeProvider extends RecipeProvider {
         // --- SHAPED RECIPES ---
         shaped(RecipeCategory.TOOLS, ModItems.MAGNET.get())
                 .pattern("M M")
-                .pattern(" I ")
+                .pattern(" T ")
                 .pattern("   ")
                 .define('M', ModItems.MAGNETIT_INGOT.get())
-                .define('I', Items.IRON_INGOT)
+                .define('T', ModItems.TITAN_INGOT)
                 .unlockedBy(getHasName(ModItems.MAGNETIT_INGOT.get()), has(ModItems.MAGNETIT_INGOT.get()))
                 .group("magnet")
                 .save(output);
