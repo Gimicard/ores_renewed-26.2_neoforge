@@ -7,6 +7,8 @@ import com.gimicard.oresrenewed.item.ModItems;
 import com.gimicard.oresrenewed.item.ModToolMaterials;
 import com.gimicard.oresrenewed.potion.ModPotions;
 import com.gimicard.oresrenewed.tags.ModTags;
+import com.gimicard.oresrenewed.worldgen.ModConfiguredFeatures;
+import com.gimicard.oresrenewed.worldgen.ModPlacedFeatures;
 import org.slf4j.Logger;
 
 import com.mojang.logging.LogUtils;
@@ -46,6 +48,7 @@ public class OresRenewed {
         ModEffect.MOB_EFFECTS.register(modEventBus);
 
         ModCreativeModeTabs.register(modEventBus);
+
 
 
 
